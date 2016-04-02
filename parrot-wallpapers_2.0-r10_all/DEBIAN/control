@@ -1,9 +1,0 @@
-Package: parrot-wallpapers
-Version: 2.0-r10
-Architecture: all
-Maintainer: Lorenzo EclipseSpark Faletra <eclipse@frozenbox.org>
-Installed-Size: 15300
-Section: parrot
-Priority: optional
-Description: default wallpapers for Parrot security OS
- This is a collection of desktop wallpapers created for MATE desktop environment for Parrot security OS
