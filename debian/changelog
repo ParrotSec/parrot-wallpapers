@@ -1,0 +1,7 @@
+parrot-wallpapers (3.2) testing; urgency=medium
+
+  * Update for Parrot 3.5
+  * Debianized package source
+  * Import from previous source style 
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 17 Feb 2017 18:06:52 +0100

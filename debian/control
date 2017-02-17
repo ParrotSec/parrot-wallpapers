@@ -1,0 +1,17 @@
+Source: parrot-wallpapers
+Priority: optional
+Maintainer: Parrot Devel Team <parrot-devel@lists.parrotsec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@parrotsec.org>
+Standards-Version: 3.9.8
+Section: info
+Build-Depends: debhelper (>= 9)
+Build-Depends-Indep: pkg-config
+Homepage: http://www.parrotsec.org/
+
+Package: parrot-wallpapers
+Architecture: all
+Depends: desktop-base
+Priority: optional
+Description: default wallpapers for Parrot GNU/Linux
+ This is a collection of desktop wallpapers created for MATE desktop environment for Parrot GNU/Linux
