@@ -1,0 +1,14 @@
+parrot-wallpapers (3.3) testing; urgency=medium
+
+  * Drop some backgrounds.
+    - (Closes: https://dev.parrotsec.org/parrot/parrot-wallpapers/issues/2)
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 31 Jul 2017 01:10:59 +0200
+
+parrot-wallpapers (3.2) testing; urgency=medium
+
+  * Update for Parrot 3.5
+  * Debianized package source
+  * Import from previous source style 
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 17 Feb 2017 18:06:52 +0100
