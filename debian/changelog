@@ -1,3 +1,9 @@
+parrot-wallpapers (3.3.1) testing; urgency=medium
+
+  * Fix duplicated tag in xml config file.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 31 Jul 2017 22:38:49 +0200
+
 parrot-wallpapers (3.3) testing; urgency=medium
 
   * Drop some backgrounds.

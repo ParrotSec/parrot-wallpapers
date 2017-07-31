@@ -42,7 +42,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-  <wallpaper deleted="false">
     <name>default</name>
     <filename>/usr/share/backgrounds/default.jpg</filename>
     <options>zoom</options>
@@ -154,7 +153,7 @@
     <scolor>#2c001e</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-<wallpaper deleted="false">
+  <wallpaper deleted="false">
     <name>parrot fly</name>
     <filename>/usr/share/backgrounds/parrot-fly-color.jpg</filename>
     <options>zoom</options>
@@ -162,7 +161,7 @@
     <scolor>#2c001e</scolor>
     <shade_type>solid</shade_type>
   </wallpaper>
-<wallpaper deleted="false">
+  <wallpaper deleted="false">
     <name>parrot fly grey</name>
     <filename>/usr/share/backgrounds/parrot-fly-grey.jpg</filename>
     <options>zoom</options>
