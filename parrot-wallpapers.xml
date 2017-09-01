@@ -2,14 +2,6 @@
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>blade</name>
-    <filename>/usr/share/backgrounds/blade.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>blocks</name>
     <filename>/usr/share/backgrounds/blocks.jpg</filename>
     <options>zoom</options>
@@ -50,22 +42,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>dna</name>
-    <filename>/usr/share/backgrounds/dna.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>glider toxic</name>
-    <filename>/usr/share/backgrounds/glider-toxic.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>glider</name>
     <filename>/usr/share/backgrounds/glider.jpg</filename>
     <options>zoom</options>
@@ -98,14 +74,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>inforge</name>
-    <filename>/usr/share/backgrounds/inforge.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>mask smog</name>
     <filename>/usr/share/backgrounds/mask-smog.jpg</filename>
     <options>zoom</options>
@@ -123,7 +91,7 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>outerspace3D</name>
-    <filename>/usr/share/backgrounds/uoterspace3D.jpg</filename>
+    <filename>/usr/share/backgrounds/outerspace3D.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
@@ -170,8 +138,8 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>Pixels</name>
-    <filename>/usr/share/backgrounds/pixels.jpg</filename>
+    <name>Pirate-Cubes</name>
+    <filename>/usr/share/backgrounds/pirate-cubes.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
@@ -180,14 +148,6 @@
   <wallpaper deleted="false">
     <name>outerspaceHands</name>
     <filename>/usr/share/backgrounds/platinum.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>security</name>
-    <filename>/usr/share/backgrounds/security.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>

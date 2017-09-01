@@ -1,3 +1,10 @@
+parrot-wallpapers (3.4) testing; urgency=medium
+
+  * Remove some old backgrounds.
+  * Add new Pirate-Cubes background.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 01 Sep 2017 16:05:29 +0200
+
 parrot-wallpapers (3.3.1) testing; urgency=medium
 
   * Fix duplicated tag in xml config file.
