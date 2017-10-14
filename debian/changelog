@@ -1,3 +1,9 @@
+parrot-wallpapers (3.5) testing; urgency=medium
+
+  * Change default background.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 15 Oct 2017 00:31:55 +0200
+
 parrot-wallpapers (3.4) testing; urgency=medium
 
   * Remove some old backgrounds.
