@@ -1,0 +1,64 @@
+Source: parrot-drivers
+Priority: contrib/optional
+Maintainer: Parrot Devel Team <parrot-devel@lists.parrotsec.org>
+Uploaders: Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>,
+           Lisetta "Sheireen" Ferrero <sheireen@parrotsec.org>
+Standards-Version: 4.0.0
+Section: info
+Build-Depends: debhelper (>= 10)
+Build-Depends-Indep: pkg-config
+Homepage: https://www.parrotsec.org/
+
+Package: parrot-drivers
+Architecture: all
+Depends: firmware-linux-free, firmware-linux
+Recommends: alsa-firmware-loaders,
+            b43-fwcutter,
+            bluez-firmware,
+            bcmwl-kernel-sources,
+            broadcom-sta-dkms,
+            btrfs-tools, 
+            dosfstools,
+            e2fsprogs,
+            exfat-fuse,
+            exfat-utils,
+            firmware-adi,
+            firmware-atheros,
+            firmware-b43-installer,
+            firmware-b43legacy-installer,
+            firmware-b43-lpphy-installer,
+            firmware-bnx2, firmware-bnx2x,
+            firmware-brcm80211,
+            firmware-intelwimax,
+            firmware-iwlwifi,
+            firmware-libertas,
+            firmware-linux,
+            firmware-linux-free,
+            firmware-linux-nonfree,
+            firmware-misc-nonfree,
+            firmware-myricom,
+            firmware-netxen,
+            firmware-nexten,
+            firmware-qlogic,
+            firmware-ralink,
+            firmware-realtek,
+            firmware-ti-connectivity,
+            gobi-loader,
+            hfsprogs,
+            hfsutils,
+            jfsutils,
+            libertas-firmware, 
+            linux-wlan-ng-firmware,
+            lshw-gtk,
+            mtools,
+            prism2-usb-firmware-installer,
+            reiser4progs,
+            reiserfsprogs,
+            wmaloader,
+            xfsdump,
+            xfsprogs,
+            zd1211-firmware,
+Suggests: firmware-ipw2x00
+Priority: optional
+Description: Parrot essential drivers metapackage
+ This metapackage provides all the drivers and firmwares required in a standard Parrot Security OS installation in order to provide a system perfectly usable out of the box in as more as possible machines.
