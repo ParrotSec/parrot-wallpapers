@@ -2,14 +2,6 @@
 <!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
 <wallpapers>
   <wallpaper deleted="false">
-    <name>blocks</name>
-    <filename>/usr/share/backgrounds/blocks.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
     <name>Blurry</name>
     <filename>/usr/share/backgrounds/blurry.jpg</filename>
     <options>zoom</options>
@@ -36,14 +28,6 @@
   <wallpaper deleted="false">
     <name>default</name>
     <filename>/usr/share/backgrounds/default.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>glider</name>
-    <filename>/usr/share/backgrounds/glider.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
@@ -179,6 +163,14 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>sub urban</name>
+    <filename>/usr/share/backgrounds/splash2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>sub urban</name>
     <filename>/usr/share/backgrounds/sub-urban.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
@@ -204,14 +196,6 @@
   <wallpaper deleted="false">
     <name>toxic2</name>
     <filename>/usr/share/backgrounds/toxic2.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>toxic3</name>
-    <filename>/usr/share/backgrounds/toxic3.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>

@@ -1,3 +1,10 @@
+parrot-wallpapers (3.6) testing; urgency=medium
+
+  * Improve default background.
+  * Add new beta background (splash2 needs to be finished).
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 21 Jan 2018 22:52:34 +0100
+
 parrot-wallpapers (3.5) testing; urgency=medium
 
   * Change default background.
