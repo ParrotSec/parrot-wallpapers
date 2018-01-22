@@ -1,3 +1,9 @@
+parrot-wallpapers (3.6.1) testing; urgency=medium
+
+  * Rebuild package.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 22 Jan 2018 16:56:50 +0100
+
 parrot-wallpapers (3.6) testing; urgency=medium
 
   * Improve default background.
