@@ -43,6 +43,8 @@ Recommends: alsa-firmware-loaders,
             firmware-ralink,
             firmware-realtek,
             firmware-ti-connectivity,
+            firmware-ipw2x00,
+            realtek-rtl88xxau-dkms,
             gobi-loader,
             hfsprogs,
             hfsutils,
@@ -57,8 +59,7 @@ Recommends: alsa-firmware-loaders,
             wmaloader,
             xfsdump,
             xfsprogs,
-            zd1211-firmware,
-Suggests: firmware-ipw2x00
+            zd1211-firmware
 Priority: optional
 Description: Parrot essential drivers metapackage
  This metapackage provides all the drivers and firmwares required in a standard Parrot Security OS installation in order to provide a system perfectly usable out of the box in as more as possible machines.

@@ -1,3 +1,9 @@
+parrot-drivers (1.3.4) testing; urgency=medium
+
+  * Add realtek 88xxau driver.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 24 Jan 2019 20:43:16 +0100
+
 parrot-drivers (1.3.3) testing; urgency=medium
 
   * Remove zfs support, it still breaks things.
