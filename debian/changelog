@@ -1,3 +1,9 @@
+parrot-wallpapers (4.6) testing; urgency=medium
+
+  * Add macaw-poly2 wallpaper.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 20 Mar 2019 00:11:42 +0100
+
 parrot-wallpapers (3.7) testing; urgency=medium
 
   * Add macaw-poly background by Federica Marasà.

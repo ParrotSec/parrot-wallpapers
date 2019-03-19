@@ -74,6 +74,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>macaw-poly 2</name>
+    <filename>/usr/share/backgrounds/macaw-poly2.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>mask smog</name>
     <filename>/usr/share/backgrounds/mask-smog.jpg</filename>
     <options>zoom</options>
