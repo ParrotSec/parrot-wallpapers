@@ -1,51 +1,72 @@
-parrot-drivers (1.3.4) testing; urgency=medium
+parrot-wallpapers (4.7.1) rolling; urgency=medium
 
-  * Add realtek 88xxau driver.
+  * Add macaw-vaporwave background.
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Thu, 24 Jan 2019 20:43:16 +0100
+ -- Federica "marafed" Marasà <marafed@parrotsec.org>  Fri, 20 Sep 2019 23:26:32 +0200
 
-parrot-drivers (1.3.3) testing; urgency=medium
 
-  * Remove zfs support, it still breaks things.
+parrot-wallpapers (4.7) testing; urgency=medium
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 17 Oct 2017 17:08:25 +0200
+  [ LulzRose ]
+  * [5fb071c] Add MythicHorizon and SpectralHorizon backgrounds by Kurt Bruggeman
 
-parrot-drivers (1.3.2) testing; urgency=medium
+  [ s1udge ]
+  * Removed blurry.jpg, bottleship.jpg, carbon-glider.jpg, pirate-cubes.jpg, platinum.jpg
 
-  * Remove firmware-ipw2x00.
-  * Remove the spl-dkms workaround from this package.
+ -- s1udge <s1udge@parrotsec.org>  Fri, 23 Aug 2019 15:56:42 +0000
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 15 Oct 2017 02:38:15 +0200
+parrot-wallpapers (4.6) testing; urgency=medium
 
-parrot-drivers (1.3.1) testing; urgency=medium
+  * Add macaw-poly2 wallpaper.
 
-  * Break spl-dkms dependency as it does not work on linux 4.13.
-  * Add zfs-fuse support.
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 20 Mar 2019 00:11:42 +0100
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sat, 14 Oct 2017 00:15:45 +0200
+parrot-wallpapers (3.7) testing; urgency=medium
 
-parrot-drivers (1.3) testing; urgency=medium
+  * Add macaw-poly background by Federica Marasà.
 
-  * Bump debian standards 4.0.0
-  * Drop zfs support.
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 03 Sep 2018 01:33:19 +0200
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 13 Oct 2017 18:50:20 +0200
+parrot-wallpapers (3.6.1) testing; urgency=medium
 
-parrot-drivers (1.2) testing; urgency=medium
+  * Rebuild package.
 
-  * Add ZFS support.
-  * Recommends broadcom-sta-dkms.
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 22 Jan 2018 16:56:50 +0100
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 26 Jul 2017 12:46:49 +0200
+parrot-wallpapers (3.6) testing; urgency=medium
 
-parrot-drivers (1.1) testing; urgency=medium
+  * Improve default background.
+  * Add new beta background (splash2 needs to be finished).
 
-  * Remove usbprog.
-  * Move to contrib.
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 21 Jan 2018 22:52:34 +0100
 
- -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 05 Jul 2017 17:37:55 +0200
+parrot-wallpapers (3.5) testing; urgency=medium
 
-parrot-drivers (1.0) testing; urgency=medium
+  * Change default background.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 15 Oct 2017 00:31:55 +0200
+
+parrot-wallpapers (3.4) testing; urgency=medium
+
+  * Remove some old backgrounds.
+  * Add new Pirate-Cubes background.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 01 Sep 2017 16:05:29 +0200
+
+parrot-wallpapers (3.3.1) testing; urgency=medium
+
+  * Fix duplicated tag in xml config file.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 31 Jul 2017 22:38:49 +0200
+
+parrot-wallpapers (3.3) testing; urgency=medium
+
+  * Drop some backgrounds.
+    - (Closes: https://dev.parrotsec.org/parrot/parrot-wallpapers/issues/2)
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Mon, 31 Jul 2017 01:10:59 +0200
+
+parrot-wallpapers (3.2) testing; urgency=medium
 
   * Update for Parrot 3.5
   * Debianized package source
