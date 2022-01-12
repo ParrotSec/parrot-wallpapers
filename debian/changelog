@@ -1,3 +1,9 @@
+parrot-wallpapers (4.7.2) lts-updates; urgency=medium
+
+  * Rebuild package
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 12 Jan 2022 17:52:21 +0100
+
 parrot-wallpapers (4.7.1) rolling; urgency=medium
 
   * Add macaw-vaporwave background.
