@@ -10,8 +10,72 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Debri</name>
+    <filename>/usr/share/backgrounds/debri.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Dots</name>
+    <filename>/usr/share/backgrounds/dots.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name> NSA Glitch</name>
+    <filename>/usr/share/backgrounds/nsa-glitch.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Rocket</name>
+    <filename>/usr/share/backgrounds/rocket-planet.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>LowPoly Landscape</name>
+    <filename>/usr/share/backgrounds/lowpoly-landscape.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Cupertino</name>
+    <filename>/usr/share/backgrounds/cupertino.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Grid</name>
     <filename>/usr/share/backgrounds/grid.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>HackTheBox 1</name>
+    <filename>/usr/share/backgrounds/hackthebox.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>HackTheBox 2</name>
+    <filename>/usr/share/backgrounds/hackthebox-alt.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
@@ -58,14 +122,6 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
-    <name>mask smog</name>
-    <filename>/usr/share/backgrounds/mask-smog.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-    <wallpaper deleted="false">
     <name>Mystic Horizon</name>
     <filename>/usr/share/backgrounds/MysticHorizon.jpg</filename>
     <options>zoom</options>
@@ -76,14 +132,6 @@
   <wallpaper deleted="false">
     <name>nefelibata</name>
     <filename>/usr/share/backgrounds/nefelibata.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-  <wallpaper deleted="false">
-    <name>outerspace3D</name>
-    <filename>/usr/share/backgrounds/outerspace3D.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>
@@ -148,14 +196,6 @@
   <wallpaper deleted="false">
     <name>space1</name>
     <filename>/usr/share/backgrounds/space.jpg</filename>
-    <options>zoom</options>
-    <pcolor>#2c001e</pcolor>
-    <scolor>#2c001e</scolor>
-    <shade_type>solid</shade_type>
-  </wallpaper>
-   <wallpaper deleted="false">
-    <name>Spectral Horizon</name>
-    <filename>/usr/share/backgrounds/SpectralHorizon.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>

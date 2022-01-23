@@ -1,3 +1,21 @@
+parrot-wallpapers (5.0.0) parrot-updates; urgency=medium
+
+  * Add new default Debri wallpaper by Federica marasa'.
+  * Add new wallpapers
+    + dots
+    + nsa-glitch
+    + rocket-planet
+    + lowpoly-landscape
+    + cupertino
+    + hackthebox
+    + hackthebox-alt
+  * Remove some old wallpapers
+    + mask-smog
+    + outerspace3D
+    + spectralhorizon
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Sun, 23 Jan 2022 18:48:34 +0100
+
 parrot-wallpapers (4.7.2) lts-updates; urgency=medium
 
   * Rebuild package
