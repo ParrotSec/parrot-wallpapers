@@ -58,6 +58,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Fly Away</name>
+    <filename>/usr/share/backgrounds/fly-away.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Grid</name>
     <filename>/usr/share/backgrounds/grid.jpg</filename>
     <options>zoom</options>
