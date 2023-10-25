@@ -10,6 +10,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Lorikeet</name>
+    <filename>/usr/share/backgrounds/lorikeet.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Debri</name>
     <filename>/usr/share/backgrounds/debri.jpg</filename>
     <options>zoom</options>
@@ -52,6 +60,14 @@
   <wallpaper deleted="false">
     <name>Cupertino</name>
     <filename>/usr/share/backgrounds/cupertino.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fly Away</name>
+    <filename>/usr/share/backgrounds/fly-away.jpg</filename>
     <options>zoom</options>
     <pcolor>#2c001e</pcolor>
     <scolor>#2c001e</scolor>

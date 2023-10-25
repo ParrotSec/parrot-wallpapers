@@ -1,3 +1,15 @@
+parrot-wallpapers (6.0) lory-updates; urgency=medium
+
+  * Import new Lorikeet wallpaper.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 25 Oct 2023 04:00:25 +0200
+
+parrot-wallpapers (5.1) parrot-updates; urgency=medium
+
+  * Import new Fly Away wallpaper.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Wed, 27 Jul 2022 14:13:29 +0200
+
 parrot-wallpapers (5.0.0) parrot-updates; urgency=medium
 
   * Add new default Debri wallpaper by Federica marasa'.
