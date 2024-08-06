@@ -1,3 +1,9 @@
+parrot-wallpapers (6.2) lory; urgency=medium
+
+  * Import new Lorikeet 2 wallpaper.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 06 Aug 2024 18:17:02 +0200
+
 parrot-wallpapers (6.0) lory-updates; urgency=medium
 
   * Import new Lorikeet wallpaper.
