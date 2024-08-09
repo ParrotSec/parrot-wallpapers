@@ -1,3 +1,9 @@
+parrot-wallpapers (6.2.1) lory-updates; urgency=medium
+
+  * Update lorikeet 2 wallpaper to not get cut on 4:3 screens.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 09 Aug 2024 03:59:27 +0200
+
 parrot-wallpapers (6.2) lory; urgency=medium
 
   * Import new Lorikeet 2 wallpaper.
