@@ -1,3 +1,9 @@
+parrot-wallpapers (6.2.2) lory-updates; urgency=medium
+
+  * Import new HackTheBox wallpaper.
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Fri, 06 Sep 2024 23:05:23 +0200
+
 parrot-wallpapers (6.2.1) lory-updates; urgency=medium
 
   * Update lorikeet 2 wallpaper to not get cut on 4:3 screens.
