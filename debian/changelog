@@ -1,3 +1,10 @@
+parrot-wallpapers (7.0.0) echo-updates; urgency=medium
+
+  * Add echo wallpaper.
+  * Update control file.
+
+ -- Dario "danterolle" Camonita <danterolle@parrotsec.org>  Sat, 29 Nov 2025 16:22:14 +0100
+
 parrot-wallpapers (6.2.2) lory-updates; urgency=medium
 
   * Import new HackTheBox wallpaper.
