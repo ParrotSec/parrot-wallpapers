@@ -1,3 +1,9 @@
+parrot-wallpapers (7.0.1) echo; urgency=medium
+
+  * Get rid of legacy makefile
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@parrotsec.org>  Tue, 02 Dec 2025 15:09:58 +0100
+
 parrot-wallpapers (7.0.0) echo-updates; urgency=medium
 
   * Add echo wallpaper.
