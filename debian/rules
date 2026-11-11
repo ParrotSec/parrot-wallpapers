@@ -2,3 +2,14 @@
 
 %:
 	dh $@
+
+override_dh_auto_build:
+	sh debian/generate-plasma-wallpapers.sh
+
+override_dh_auto_clean:
+	dh_auto_clean
+	rm -rf debian/wallpapers.d
+
+override_dh_install:
+	dh_install
+	dh_install debian/wallpapers.d usr/share/wallpapers

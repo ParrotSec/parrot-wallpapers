@@ -6,7 +6,8 @@ Uploaders: Dario "danterolle" Camonita <danterolle@parrotsec.org>,
 Standards-Version: 4.7.0
 Section: info
 Build-Depends: debhelper-compat (= 13)
-Build-Depends-Indep: pkg-config
+Build-Depends-Indep: pkg-config,
+                       imagemagick
 Homepage: https://parrotsec.org/
 
 Package: parrot-wallpapers

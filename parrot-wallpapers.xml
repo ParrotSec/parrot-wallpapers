@@ -266,6 +266,14 @@
     <shade_type>solid</shade_type>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>parrot cyberpunk</name>
+    <filename>/usr/share/backgrounds/parrot-cyberpunk.jpg</filename>
+    <options>zoom</options>
+    <pcolor>#2c001e</pcolor>
+    <scolor>#2c001e</scolor>
+    <shade_type>solid</shade_type>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>macaw vaporwave</name>
     <filename>/usr/share/backgrounds/macaw-vaporwave.jpg</filename>
     <options>zoom</options>
